@@ -1,8 +1,13 @@
-# Pinboard++
+# Pinboard I/O
 
 An unofficial Firefox extension for the Pinboard bookmarking service (https://pinboard.in) that uses the WebExtension API. Forked from [Sam Clark's Chrome extension](https://github.com/samclark/pinboard).
 
-Current version: 2.2.5
+Current version: 2.2.6
+
+## Installing
+
+Install the extension directly from the [google chrome web store](https://chrome.google.com/webstore/detail/pinboard/lclbbneapfiaihigbkalcoophalpbapl?hl=en-GB).
+
 
 ## Features
 

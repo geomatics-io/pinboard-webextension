@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Pinboard++",
-    "version": "2.2.5",
-    "version_name": "2.2.5 beta",
-    "description": "A toolbar button for the Pinboard bookmarking service (http://pinboard.in).",
+    "name": "Pinboard I/O",
+    "version": "2.2.6",
+    "version_name": "2.2.6 beta",
+    "description": "An unofficial Firefox extension for the Pinboard bookmarking service (https://pinboard.in) that uses the WebExtension API.",
     "developer": {
       "name": "geomatics I/O",
       "url": "https://github.com/geomatics-io"
@@ -21,7 +21,7 @@
     },
     "browser_action": {
         "default_icon": "icon_19_light.png",
-        "default_title": "Pinboard++",
+        "default_title": "Pinboard I/O",
         "default_popup": "popup.html"
     },
     "options_ui": {
